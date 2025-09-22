@@ -1,6 +1,7 @@
 # HrDashboard
 
 HR Analytics Dashboard - Power BI Project
+
 📝 Problem Statement
 In the modern workplace, effective human resources management relies on data-driven insights. This dashboard was designed to provide a comprehensive view of a company's workforce, focusing on key HR metrics to support strategic decision-making in recruitment, employee engagement, and talent management.
 
